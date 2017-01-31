@@ -1,0 +1,111 @@
+#-------------------------------
+# General Site Settings
+
+title: Web Designer
+description: Father // Freelancer // Designer // Developer // Cyclist
+email: grant@transitiongraphics.co.uk
+
+# NOTE: The Logo and Background image are defined in the all.sass document.
+
+menu:
+- {name: About Me, url: '#about-me'}
+- {name: Work, url: '#work'}
+- {name: Clients, url: '#clients'}
+- {name: Contact, url: '#contact'}
+
+#-------------------------------
+# SEO Section
+
+# NOTE: Providing SEO information will make this website more searchable on the internet.
+
+seo:
+  description: 'Grant Smith, Web Designer based in Gloucestershire.'
+  rel-author: 'https://plus.google.com/+TransitiongraphicsCoUkGraphics'
+  rel-publisher: 'https://plus.google.com/+TransitiongraphicsCoUkGraphics'
+
+#-------------------------------
+# Google Analytics Section
+
+# Analytics helps you understand who visits your website.
+# Learn more at: http://support.google.com/analytics/answer/1008065
+
+# NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
+
+#google-analytics-ua: UA-XXXXXX-X
+
+#-------------------------------
+# About Section
+
+# NOTE: The avatar is defined in the all.sass document.
+
+blurb: >
+    <p><strong>Grant Smith is the Creative Director of <a href="//www.transitiongraphics.co.uk" title="Responsive, engaging webdesign from Transition Graphics" target="_blank">Transition Graphics</a></strong>, a company he started in early 2014. Within this time, Grant has built up an impressive client list including <a href="//www.sonymusic.co.uk" title="Sony Music UK" target="_blank">Sony Music</a>, <a href="//www.forestry.gov.uk/england" title="Forestry Commision England" target="_blank">Forestry Commission England</a> and <a href="//www.costain.com" title="Engineering a Sustainable Tomorrow" target="_blank">Costain</a>.</p>
+     <p>His professional career started in 1997 within photography but soon moved towards other areas of visual communication, more specifically print design and production. During this time, Grant has found a real passion for expanding his creative knowledge while developing existing experience. This has led to a very rounded skill set ranging from brand communications to e-commerce web development.</p>
+     <p>Before Transition Graphics, Grant worked with a wide variety of companies and as his skills in design developed he came to the realisation that his heart lay in helping SME’s to grow through better visual communications. Transition Graphics goal is to provide SME’s with agency standards without agency costs.</p>
+     <p>Grant lives in Gloucestershire with partner Karla and daughter Seren, in his free time, he is often found cycling the local hills.</p>
+
+
+skills:
+- {name: Communication, value: '10'}
+- {name: Organization, value: '7'}
+- {name: Learning, value: '9'}
+- {name: Teaching, value: '7'}
+- {name: Planning, value: '10'}
+- {name: Visual Design, value: '8'}
+- {name: UX Design, value: '8'}
+- {name: Programming, value: '8'}
+
+#-------------------------------
+# Work Section
+
+projects:
+- {name: Swindon Half Marathon, folder: 'proj-1', file: 'work/proj-1.html'}
+- {name: City-IN website concept, folder: 'proj-2', file: 'work/proj-2.html'}
+- {name: DBMax Sports Timing, folder: 'proj-3', file: 'work/proj-3.html'}
+- {name: Rackham Effect, folder: 'proj-4', file: 'work/proj-4.html'}
+- {name: Tri Team Glos, folder: 'proj-5', file: 'work/proj-5.html'}
+- {name: Runology, folder: 'proj-6', file: 'work/proj-6.html'}
+- {name: Sandford Parks Lido, folder: 'proj-7', file: 'work/proj-7.html'}
+- {name: Trundle Films, folder: 'proj-8', file: 'work/proj-8.html'}
+
+
+
+
+#-------------------------------
+# Clients Section
+
+clients:
+- {avatar: 'face-graemeh.jpg',
+  name: 'Graeme Hardie',
+  title: 'Director, 113 Events.',
+  quote: '<p><strong>I used Grant at Transition Graphics</strong> for the design, development and ongoing maintenance of my business website this year. I have found them to be very professional, always very punctual and provide great value for money. I’ll be the first person to admit that I’m not graphically talented, or any good at all at what works and what doesn’t, and Grant took the time to explain how different elements of the site work and created all the graphical content himself in a format that’s both complex, but understandable. Our website now has a modern feel and a slick operation, and it’s helped our business engage with a more professional audience. I wouldn’t hesitate to recommend Transition Graphics for any other projects.</p>',
+  logo: 'logo1.jpg'}
+- {avatar: 'face-atariboy.jpg',
+  name: 'Hank McCoy',
+  title: 'Eater of Salad, Antartica Int.',
+  quote: '<p><strong>Working with Travis was the highlight of my career.</strong> Other moments of note were collecting the largest number of paperclips in the office, and winning a trophy for saying "uh huh, and then what?" 30 times in a row to my girlfriend without her noticing.</p>',
+  logo: 'logo2.png'}
+- {avatar: 'face-jackiesaik.jpg',
+  name: 'Stacy Lang',
+  title: 'Social Media Girl, Quebec Int.',
+  quote: '<p><strong>Yea, I guess hes good at computers or something,</strong> but let me ask you this: If a cat always lands on its feet, and buttered bread always lands butter side down, what would happen if you tied buttered bread on top of a cat?</p>',
+  logo: 'logo3.png'}
+- {avatar: 'face-teleject.jpg',
+  name: 'Cleatus Cassidy',
+  title: 'VP of Helmut, Lorem Sorem LLC.',
+  quote: '<p><strong>Back in old country</strong> only nerds who is playing on computers. Now all bros is wanting to make codes and junk. I lost foot in war. You dont see girls asking me about homework.</p>',
+  logo: 'logo4.png'}
+
+
+#-------------------------------
+# Contact Section
+
+social:
+- {icon: 'twitter', link: 'https://twitter.com/GrantTransition'}
+- {icon: 'linkedin', link: 'https://uk.linkedin.com/in/transitiongraphics'}
+- {icon: 'instagram', link: 'https://www.instagram.com/grantsmith/'}
+- {icon: 'github', link: 'https://github.com/granttransition'}
+- {icon: 'google-plus', link: 'https://plus.google.com/+TransitiongraphicsCoUkGraphics'}
+
+
+# social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
