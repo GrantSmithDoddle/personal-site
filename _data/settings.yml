@@ -79,22 +79,22 @@ clients:
   name: 'Graeme Hardie',
   title: 'Director, 113 Events.',
   quote: '<p><strong>I used Grant at Transition Graphics</strong> for the design, development and ongoing maintenance of my business website this year. I have found them to be very professional, always very punctual and provide great value for money. I’ll be the first person to admit that I’m not graphically talented, or any good at all at what works and what doesn’t, and Grant took the time to explain how different elements of the site work and created all the graphical content himself in a format that’s both complex, but understandable. Our website now has a modern feel and a slick operation, and it’s helped our business engage with a more professional audience. I wouldn’t hesitate to recommend Transition Graphics for any other projects.</p>',
-  logo: 'logo1.jpg'}
-- {avatar: 'face-atariboy.jpg',
-  name: 'Hank McCoy',
-  title: 'Eater of Salad, Antartica Int.',
-  quote: '<p><strong>Working with Travis was the highlight of my career.</strong> Other moments of note were collecting the largest number of paperclips in the office, and winning a trophy for saying "uh huh, and then what?" 30 times in a row to my girlfriend without her noticing.</p>',
-  logo: 'logo2.png'}
-- {avatar: 'face-jackiesaik.jpg',
-  name: 'Stacy Lang',
-  title: 'Social Media Girl, Quebec Int.',
-  quote: '<p><strong>Yea, I guess hes good at computers or something,</strong> but let me ask you this: If a cat always lands on its feet, and buttered bread always lands butter side down, what would happen if you tied buttered bread on top of a cat?</p>',
-  logo: 'logo3.png'}
-- {avatar: 'face-teleject.jpg',
-  name: 'Cleatus Cassidy',
-  title: 'VP of Helmut, Lorem Sorem LLC.',
-  quote: '<p><strong>Back in old country</strong> only nerds who is playing on computers. Now all bros is wanting to make codes and junk. I lost foot in war. You dont see girls asking me about homework.</p>',
-  logo: 'logo4.png'}
+  logo: 'logo1.svg'}
+- {avatar: 'face-lizc.jpg',
+  name: 'Liz Clegg',
+  title: 'Director, Executive Coach and HR Consultant',
+  quote: '<p><strong>You only get one go at a website, so it has to be the best it can possibly be.</strong> Grant not only has excellent technical skills, but he works closely with you to develop a deep understanding of your business and how you want to be portrayed. Grant didn’t rush me into making decisions, but when the ball was in his court he delivered promptly. He was happy to try out different options and above all wanted to ensure that I was satisfied at every stage. Working with Grant to develop my website was an enjoyable experience and I am delighted with the outcome. I have had excellent feedback on the site from colleagues and customers.</p>',
+  logo: 'logo2.svg'}
+- {avatar: 'face-Jamesh.png',
+  name: 'James Higgs',
+  title: Event Director, DB Max',
+  quote: '<p><strong>Grant at Transition Graphics has provided us with a fantastic service since day one.</strong> From a thorough review of the website and what we need to its development and implementation and beyond. I would thoroughly recommend Grant to anyone looking to update their website.</p>',
+  logo: 'logo3.svg'}
+- {avatar: 'face-LouiseM.jpg',
+  name: 'Louise May',
+  title: 'Dirctor, Loma Consulting.',
+  quote: '<p><strong>I am delighted with my new brand and website.</strong> Grant is knowledgable, professional and patient. He teased my requirements out of me very skilfully and then created a modern, fresh identity for my business including a strong logo, a beautiful website and a range of stationery. I run a niche executive search business and my customers are senior people in large organisations, so my brand needs to be polished and my website needs to be concise and professional.  My window on the world now reflects my business and its values perfectly. Thank you Transition Graphics!</p>',
+  logo: 'logo4.svg'}
 
 
 #-------------------------------
