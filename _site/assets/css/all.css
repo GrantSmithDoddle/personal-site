@@ -963,6 +963,8 @@ footer {
   .work-container img {
     max-width: 100%;
     margin-bottom: 20px; }
+  .work-container .container {
+    max-width: 600px; }
   .work-container .work-return {
     height: 40px;
     width: 40px;
