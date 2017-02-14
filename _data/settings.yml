@@ -47,7 +47,7 @@ blurb: >
 
 skills:
 - {name: Communication, value: '10'}
-- {name: Organization, value: '7'}
+- {name: Organisation, value: '7'}
 - {name: Learning, value: '9'}
 - {name: Teaching, value: '7'}
 - {name: Planning, value: '10'}
