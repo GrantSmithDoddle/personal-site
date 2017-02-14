@@ -1,9 +1,9 @@
 ---
-title: Weather Dashboard
+title: Sanford Park Lido. Responsive website design, Cheltenham Lido
 ---
 
-![Weather Dashboard]({{ site.github.url }}/assets/img/work/proj-7/img0.jpg)
-![Weather Dashboard]({{ site.github.url }}/assets/img/work/proj-7/img1.jpg)
-![Weather Dashboard]({{ site.github.url }}/assets/img/work/proj-7/img2.jpg)
-![Weather Dashboard]({{ site.github.url }}/assets/img/work/proj-7/img3.jpg)
-![Weather Dashboard]({{ site.github.url }}/assets/img/work/proj-7/img4.jpg)
+Sandford Parks Lido is a very popular, historically significant, open-air swimming pool in Cheltenham. They were already running a very successful website. However, the key member of staff who implemented and ran the website had recently moved into a new position. Iain sought helped as they required the site re-made into a responsive website. The project required the existing Content Management System, to be replaced by WordPress. The current tone and feel of the website also needed to be retained. There was an enormous amount of data on the current site which would also require transferring, all before they opened for the summer season.
+
+![Sanford Park Lido. Responsive website design, Cheltenham Lido]({{ site.github.url }}/assets/img/work/proj-7/img1.jpg)
+![Sanford Park Lido. Responsive website design, Cheltenham Lido]({{ site.github.url }}/assets/img/work/proj-7/img2.jpg)
+![Sanford Park Lido. Responsive website design, Cheltenham Lido]({{ site.github.url }}/assets/img/work/proj-7/img3.jpg)

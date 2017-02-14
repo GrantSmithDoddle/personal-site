@@ -59,14 +59,14 @@ skills:
 # Work Section
 
 projects:
-- {name: Swindon Half Marathon, folder: 'proj-1', file: 'work/proj-1.html'}
-- {name: City-IN website concept, folder: 'proj-2', file: 'work/proj-2.html'}
-- {name: DBMax Sports Timing, folder: 'proj-3', file: 'work/proj-3.html'}
-- {name: Rackham Effect, folder: 'proj-4', file: 'work/proj-4.html'}
-- {name: Tri Team Glos, folder: 'proj-5', file: 'work/proj-5.html'}
-- {name: Runology, folder: 'proj-6', file: 'work/proj-6.html'}
+- {name: Cynero, folder: 'proj-1', file: 'work/proj-1.html'}
+- {name: 113 Events, folder: 'proj-2', file: 'work/proj-2.html'}
+- {name: Rackham Effect, folder: 'proj-3', file: 'work/proj-3.html'}
+- {name: DBMax Sports Timing, folder: 'proj-4', file: 'work/proj-4.html'}
+- {name: Loma Consulting, folder: 'proj-5', file: 'work/proj-5.html'}
+- {name: Liz Clegg Executive Coaching, folder: 'proj-6', file: 'work/proj-6.html'}
 - {name: Sandford Parks Lido, folder: 'proj-7', file: 'work/proj-7.html'}
-- {name: Trundle Films, folder: 'proj-8', file: 'work/proj-8.html'}
+- {name: Amanda McGough, folder: 'proj-8', file: 'work/proj-8.html'}
 
 
 

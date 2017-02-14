@@ -1,5 +1,7 @@
 ---
-title: Timeline Page
+title: Liz Clegg Executive Coaching. Brand and logo development
 ---
 
-![Timeline Page]({{ site.github.url }}/assets/img/work/proj-6/TimeLinePage-SergeyValiukh.jpg)
+Liz Clegg Executive Coaching Brand, Website Design. Designed to appeal to a specific target market who value Executive Coaching and HR Consultancy services. Liz required help developing her business ideas into a brand and ultimately a website. The website wasn’t to be overly complicated, but needed to communicate how Liz could help other businesses. She also wished to be able to edit the site by herself and have email marketing capabilities.
+
+![Liz Clegg Executive Coaching. Brand and logo development]({{ site.github.url }}/assets/img/work/proj-6/img1.jpg)
